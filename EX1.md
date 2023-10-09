@@ -63,3 +63,6 @@ rename table student to mysudent;
 ```
 ### OUTPUT:
 ![5](https://github.com/Divya110205/G2_DBMS/assets/119404855/e1dd2d71-fa17-47d8-a546-e85999b1a75d)
+
+## RESULT:
+The program is implemented successfully.
